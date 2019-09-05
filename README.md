@@ -7,10 +7,15 @@ file.bat/exe [arg] [data]
 
 
    -send [message]             : Send a message no "" if its in the message it will be sent
+   
    -list                       : List the chat
+   
    -listfile [Filename]        : Outputs the list into a file no ""
+   
    -setserverftp [Server]      : Sets the ftp server to connect to. No "" Ex: 192.168.1.2
+   
    -setserverlocal [Server]    : Set the local server. No "" Ex: \\192.168.1.2\servername\folder
+   
    -help                       : Display the help page
 
 To create the iftpchat folder just send a message for the first time to generate the folder!

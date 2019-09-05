@@ -1,3 +1,36 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAnk
+::fBw5plQjdG8=
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSDk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSTk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
+::ZQ05rAF9IAHYFVzEqQIZDi9kbwyDKAs=
+::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
+::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
+::cRolqwZ3JBvQF1fEqQIVKQhNDAeKPX/6FbAO/u3pjw==
+::dhA7uBVwLU+EWHCz/UE7DxpZSRfi
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATE/FYkOAgOA0uGNXi5CacYpu/8oP3Vg0scQfBf
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRmw/EM+I1tNQxHCOmSoRqAP4eb8r+ee4l4SUvYoeZ3em9Q=
+::Zh4grVQjdCyDJGyX8VAjFBFVQg+NAE+1BaAR7ebv/Nagq1k1QeADUanv6peGIfRexkzmZ5c/z0ZTnt8cDxNZalyudgpU
+::YB416Ek+ZG8=
+::
+::
+::978f952a14a936cc963da21a135fa983
 @echo off
 REM Created by @IWickGames#7827 on github.com/iwickgames
 REM Thank you for using my easy chat library! Just read these comments for an easy understanding.
